@@ -1,24 +1,18 @@
-<p align="center">
-  <svg width="500" height="60" viewBox="0 0 500 60" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .base { fill: white; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 900; font-size: 40px; text-transform: uppercase; }
-      .glitch { animation: glitch 1s linear infinite; }
-      .glitch1 { fill: #00f2ff; clip-path: inset(50% 0 0 0); transform: translate(-2px, 1px); }
-      .glitch2 { fill: #ff003c; clip-path: inset(0 0 50% 0); transform: translate(2px, -1px); opacity: 0.8; }
-      
-      @keyframes glitch {
-        2%, 64% { transform: translate(2px,-2px) skew(0deg); }
-        4%, 60% { transform: translate(-2px,2px) skew(0deg); }
-        62% { transform: translate(0,0) skew(5deg); }
-      }
-    </style>
-    <!-- Background glitch layers -->
-    <text x="50%" y="45" text-anchor="middle" class="base glitch glitch1">HEY ⚡ I'M AMAR</text>
-    <text x="50%" y="45" text-anchor="middle" class="base glitch glitch2">HEY ⚡ I'M AMAR</text>
-    <!-- Main text -->
-    <text x="50%" y="45" text-anchor="middle" class="base">HEY ⚡ I'M AMAR</text>
+<h1 align="center">
+  Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"> I'm 
+  <svg width="120" height="40" style="vertical-align: middle;">
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#00fbff;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#ed1c24;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <text x="0" y="30" fill="url(#grad1)" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 30px;">
+      Amar
+      <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite" />
+    </text>
   </svg>
-</p>
+</h1>
 <h3 align="center">Discord Scripts & Network Tools Developer</h3>
 
 <p align="center">
