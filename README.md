@@ -1,4 +1,7 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"> I'm Amar</h1>
+<h1 align="center">
+  Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"> I'm 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D2FF&center=false&vCenter=true&width=120&lines=Amar" alt="Amar" />
+</h1>
 <h3 align="center">Discord Scripts & Network Tools Developer</h3>
 
 <p align="center">
