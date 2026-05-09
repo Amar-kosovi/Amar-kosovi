@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://www.pwc.com/mt/en/services/cyber-security/cyber-attack-.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🔭 I’m currently working on Discord bots, network tools, and custom FiveM/RedM scripts
