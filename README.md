@@ -8,7 +8,7 @@
       </linearGradient>
     </defs>
     <text x="0" y="30" fill="url(#grad1)" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 30px;">
-      Amar
+      ALI
       <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite" />
     </text>
   </svg>
